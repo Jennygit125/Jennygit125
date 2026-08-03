@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>👋 Hi, I'm Bakre Eniola Dahud</h1>
-  <h3>Full-Stack Web Developer | System Logic & UI Architecture</h3>
+  <h3>Full-Stack Developer ➔ App & Software Developer</h3>
 
   <p>
-    Building high-performance interactive web components, modern user interfaces, and robust backend services.<br />
-    Passion for system logic, complex algorithmic challenges, and solid data architecture.
+    Transitioning from modern web development into full-scale application & software engineering.<br />
+    Building cross-platform apps, high-performance web systems, robust backends, and solid data architecture.
   </p>
 
   <p>
@@ -19,17 +19,17 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer** specialized in the **JavaScript & TypeScript ecosystems**, building performant frontend interfaces, scalable backend services, and reliable data architectures. Holding a Bachelor’s degree in Chemistry, I bring a unique analytical mindset to software engineering, breaking down complex logic into clean, scalable code.
+I am a **Software & Application Developer** with a strong foundation in **Full-Stack Web Development (JavaScript & TypeScript ecosystems)**. Holding a Bachelor’s degree in Chemistry, I apply an analytical, problem-solving mindset to software engineering—building clean, scalable desktop, mobile, and web applications.
 
-- 🔭 **Focusing on:** Advanced UI architecture, microservices, containerization, and relational/NoSQL schema design.
-- ⚙️ **Core Strengths:** Building interactive web applications, component architecture, algorithmic problem-solving, containerization with Docker, and API design.
-- 💡 **Interests:** High-fantasy worldbuilding, cosmic mythology, interactive web components, and functional strength training.
+- 🔭 **Focusing on:** App Development, Software Architecture, System Logic, and Relational/NoSQL Database Design.
+- ⚙️ **Core Strengths:** Cross-platform app logic, API integration, containerization with Docker, object-relational mapping (ORM), and database engineering.
+- 💡 **Interests:** High-fantasy worldbuilding, cosmic mythology, interactive app interfaces, and functional strength training.
 
 ---
 
 ### 💻 Tech Stack & Skills
 
-#### **Languages & Frameworks**
+#### **Languages & App Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,9 +40,10 @@ I am a **Full-Stack Web Developer** specialized in the **JavaScript & TypeScript
 #### **Backend, Databases & ORMs**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-0055E5?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### **DevOps, Cloud & Infrastructure**
@@ -62,8 +63,8 @@ I am a **Full-Stack Web Developer** specialized in the **JavaScript & TypeScript
 ### ⚡ Technical Focus & Stack Breakdown
 
 ```text
-JavaScript / TypeScript ████████████████████ 90%
-HTML5 & CSS3 / Tailwind ████████████████░░░░ 80%
-Node.js, Express & ORMs  ██████████████░░░░░░ 70%
-Docker & Cloud Deployment████████████░░░░░░░░ 65%
-MongoDB & Supabase DBs  ████████████░░░░░░░░ 60%
+JavaScript / TypeScript    ████████████████████ 90%
+PostgreSQL, TypeORM, SQL   ████████████████░░░░ 80%
+Node.js, Express & APIs    ██████████████░░░░░░ 75%
+Software & App Logic       ██████████████░░░░░░ 70%
+Docker & Cloud Deployment  ████████████░░░░░░░░ 65%
