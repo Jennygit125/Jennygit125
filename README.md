@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software & Application Developer** with a strong foundation in **Full-Stack Web Development (JavaScript & TypeScript ecosystems)**. Holding a Bachelor’s degree in Chemistry, I apply an analytical, problem-solving mindset to software engineering—building clean, scalable desktop, mobile, and web applications.
+I am a **Software & Application Developer** with a strong foundation in **Full-Stack Web Development (JavaScript & TypeScript ecosystems)**. Holding a Bachelor’s degree I apply an analytical, problem-solving mindset to software engineering—building clean, scalable desktop, mobile, and web applications.
 
 - 🔭 **Focusing on:** App Development, Software Architecture, System Logic, and Relational/NoSQL Database Design.
 - ⚙️ **Core Strengths:** Cross-platform app logic, API integration, containerization with Docker, object-relational mapping (ORM), and database engineering.
