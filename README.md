@@ -50,7 +50,9 @@ I am a **Software & Application Developer** with a strong foundation in **Full-S
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![OVH cloud](https://img.shields.io/badge/OVH%20Cloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white).
 
 #### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,6 +67,7 @@ I am a **Software & Application Developer** with a strong foundation in **Full-S
 ```text
 JavaScript / TypeScript   
 PostgreSQL, TypeORM, SQL   
-Node.js, Express & APIs    
+Node.js, Express & APIs
+CyberSecurity    
 Software & App Logic       
 Docker & Cloud Deployment  
