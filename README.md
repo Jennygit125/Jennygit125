@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👋 Hi, I'm Bakre Eniola Dahud</h1>
-  <h3>Full-Stack Developer ➔ App & Software Developer</h3>
+  <h3>Full-Stack Developer ➔  Software Developer</h3>
 
   <p>
     Transitioning from modern web development into full-scale application & software engineering.<br />
