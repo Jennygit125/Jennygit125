@@ -63,8 +63,8 @@ I am a **Software & Application Developer** with a strong foundation in **Full-S
 ### ⚡ Technical Focus & Stack Breakdown
 
 ```text
-JavaScript / TypeScript    ████████████████████ 90%
-PostgreSQL, TypeORM, SQL   ████████████████░░░░ 80%
-Node.js, Express & APIs    ██████████████░░░░░░ 75%
-Software & App Logic       ██████████████░░░░░░ 70%
-Docker & Cloud Deployment  ████████████░░░░░░░░ 65%
+JavaScript / TypeScript   
+PostgreSQL, TypeORM, SQL   
+Node.js, Express & APIs    
+Software & App Logic       
+Docker & Cloud Deployment  
